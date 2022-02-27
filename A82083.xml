@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration from many thousands of His Majesties loyall and faithfull subjects in the county of York, concerning the raising of an army both of horse and foot to aid and assist the King: and the resolution of the knights, gentry, and free-holders thereupon; as also, their protestation touching the northern army. Likewise, the humble remonstrance and proposals of divers knights, gentry, and free-holders in the county of Leicester; concerning the Kings Majesty, Crown, and Kingdome. Sent to the Kings most Excellent Majesty. Ordered that this declaration be published in all the parish churches, and market towns within the said county of York.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82083</idno>
+            <idno type="STC">Wing D585</idno>
+            <idno type="STC">Thomason E433_20</idno>
+            <idno type="STC">ESTC R206197</idno>
+            <idno type="EEBO-CITATION">99865371</idno>
+            <idno type="PROQUEST">99865371</idno>
+            <idno type="VID">161550</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82083)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161550)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E433[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration from many thousands of His Majesties loyall and faithfull subjects in the county of York, concerning the raising of an army both of horse and foot to aid and assist the King: and the resolution of the knights, gentry, and free-holders thereupon; as also, their protestation touching the northern army. Likewise, the humble remonstrance and proposals of divers knights, gentry, and free-holders in the county of Leicester; concerning the Kings Majesty, Crown, and Kingdome. Sent to the Kings most Excellent Majesty. Ordered that this declaration be published in all the parish churches, and market towns within the said county of York.</title>
+               </titleStmt>
+               <extent>[2], 3 [i.e. 5], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>for R.VV.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 5 misnumbered 3.</note>
+                  <note>Annotation on Thomason copy: "March 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  York --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>York (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161550:1" rendition="simple:additions"/>
+            <p>A DECLARATION FROM Many thouſands of His Majeſties loyall and faithfull Sub<g ref="char:EOLhyphen"/>jects in the County of YORK, CONCERNING The raiſing of an Army both of Horſe and Foot to aid and aſſiſt the KING: AND The Reſolution of the Knights, Gentry, and Free-holders thereupon; As alſo, their Proteſtation touching the <hi>Northern Army.</hi>
+            </p>
+            <p>Likewiſe, the humble <hi>Remonſtrance</hi> and <hi>Propoſals</hi> of divers <hi>Knights, Gentry,</hi> and <hi>Free-holders</hi> in the <hi>County</hi> of <hi>Leice<g ref="char:EOLhyphen"/>ster; concerning the Kings Majeſty, Crown, and Kingdome.</hi>
+            </p>
+            <p>Sent to the Kings moſt Excellent Majeſty.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>ORdered that this Declaration be publiſhed in all the Pa<g ref="char:EOLhyphen"/>riſh Churches, and Market Towns within the ſaid Coun<g ref="char:EOLhyphen"/>ty of <hi>YORK.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>march 27</add> Printed at <hi>London</hi> for <hi>R. VV.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:161550:2"/>
+            <pb n="1" facs="tcp:161550:2"/>
+            <head>The Humble REMONSTRANCE AND PROPOSALS OF His Majeſties Loyal and faithful Subjects, the Knights, Mi<g ref="char:EOLhyphen"/>niſters, Gentry, Freesholders, and many thouſands of the Inhabitants of the County of <hi>Leiceſter.</hi>
+            </head>
+            <opener>
+               <salute>Moſt Gracious Soveraign,</salute>
+            </opener>
+            <p>VVEE your Majeſties Loyal, faithful, and obedi<g ref="char:EOLhyphen"/>ent Subjects of Lieceſterſhire, ſcituated in the middeſt of your Kingdom of <hi>England,</hi> and in the midſt of our great fears and apparent dangers, by the levying of Forces, as it is thought, againſt the Honourable and illuſtrious Parliament, thereby to rout and ruine their manifeſt, good, and godly purpoſes, and the more fully to
+<pb n="2" facs="tcp:161550:3"/>effect this Deſigne, you have by the ill advice of your late pernicious Councel morgaged, pawned or ſold the glory of the Land, the Jewels and treaſvres of the Crown, which ought as highly to be prized as the <hi>Militia,</hi> or any <hi>Maga<g ref="char:EOLhyphen"/>zine</hi> whatſoever: For 1. the one chiefly ſerves to ſecure what is yours in poſſeſſion. And 2. the other (being ſo ea<g ref="char:EOLhyphen"/>ſily parted with) abateth the luſtre of your Kingdom.</p>
+            <p>Therefore may it pleaſe your Majeſty to hearken to the worthy and wel-deſerving men of your King<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome, your hopeful, and our happy Parliament, and become more neer in perſon, and joyne in affection with your great Court of Judicature; for ſurely that high Aſſembly with Gods bleſ<g ref="char:EOLhyphen"/>ſing, and your aſſenting unto them, can ſoone procure your and our ſafety, and annihilate all diſtractions and diſtem<g ref="char:EOLhyphen"/>pers.</p>
+            <p>And that you would freely grant your Royal conſent for the putting our county in a poſture of defence, by reaſon of the emminent danger Northward; becauſe we deſire to follow the good example of our Neighbour Country men in <hi>Lincolnſhire,</hi> and others, and to joyn your ſelf with your Parliament. Otherwiſe, when they ſhal declare, and nomi<g ref="char:EOLhyphen"/>nate the particular diſturbers of yours and our peace, the procurers of your and our fears, jealouſies and amazement out of their known experience, we ſhal take upon us the boldneſſe to remove from your Majeſty, ſuch proſecutors as are enemies to the State, and hinderers to the tranquility of the ſame. Therefore we your faithful Subjects and Ser<g ref="char:EOLhyphen"/>vadts humbly ſue, that your Majeſty woule accord with your Parltament, &amp;c.</p>
+            <p>
+               <hi>And we with our lives, estate, and fortunes, ſhall be obe<g ref="char:EOLhyphen"/>dient and loyall vnto your Majeſty.</hi>
+            </p>
+            <closer>And pray, &amp;c.</closer>
+         </div>
+         <div type="subjects_declaration_concerning_the_raising_of_military_forces">
+            <pb n="3" facs="tcp:161550:3"/>
+            <head>A Declaration of his Majeſties most loyall and faithfull Sub<g ref="char:EOLunhyphen"/>j<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cts within the County of <hi>York, touching the raiſing of Forces for the KING.</hi>
+            </head>
+            <p>WE the Gentry, Free-holders, and others of the coun<g ref="char:EOLhyphen"/>ty of <hi>York,</hi> being none of us preſent, or conſenting to the late Aſſembly, where Propoſitions were made for the raiſing of Forces of Horſe and Foot in this County, the leavying of monies for the maintenance of them, and taking away the Arms of ſome peaceable Subjects, or none at all of Us conſenting to the lawleſſe and unpreſidented preſent<g ref="char:EOLhyphen"/>ment of the Grand Juries at the laſt Aſſizes held for this County, bein<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> framed to give more ſtrength and colour to part of their<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>opoſition, the ſaid propoſitions and preſent<g ref="char:EOLhyphen"/>ments, being contrary to the Law of the Land, and tending to the introducing of an arbytrary Government, the taking a<g ref="char:EOLhyphen"/>way the propriety of every Subject in his eſtate, and which is the worſt of all evils, to beget a Warre in the bowels of this Country. We think our ſelvs, and all the reſt of the ſub<g ref="char:EOLhyphen"/>jects of this County, to be ſo highly conceined in the pro<g ref="char:EOLhyphen"/>ceedings afore-mentioned, as without great diſadvantage to us all, we may not be ſilent therein, Do make this our Pro<g ref="char:EOLhyphen"/>teſtation and Declaration before God and the whole world, that all our endeavours and labours ſhall onely tend to the ſettlement and continuance of a real peace, according to the Laws of the Land, and to the uniting of the fractions, and taking away the diſtractions that have moſt unhappily bro<g ref="char:EOLhyphen"/>ken the general unity of the Inhabitants of this County. And that nothing can be more dangerous and deRructive there<g ref="char:EOLhyphen"/>unto then the raiſing of ſuch Forces. We conceiving the adviſings thereof to proceed from ſome deſtructive coun<g ref="char:EOLhyphen"/>cels; the ends whereof are to imbroyl this Kingdom in ſuch
+<pb n="4" facs="tcp:161550:4"/>a deluge of war, as hath already, though under other pre<g ref="char:EOLhyphen"/>tences, ſwallowed up the Proteſtant Religion, the peace and proſperous condition of the Kingdom of <hi>Ireland.</hi>
+            </p>
+            <p>And ſeeing his ſacred Majeſty hath often declared unto Us, That the Laws of the Land ſhal qe the Rule of His Go<g ref="char:EOLhyphen"/>vernment, and that hh ſuſpects it ſhal be the meaſure of our ſubjection; we cannot conceive that any of theſe procee<g ref="char:EOLhyphen"/>dings ſo grievous to the Subject, are conſented to, or waran<g ref="char:EOLhyphen"/>ted by his gracious Majeſty.</p>
+            <p>And therefore we further declare, that we wil not con<g ref="char:EOLhyphen"/>ſent, nor as much as in us lyeth, ſuffer that any ſuch Forces be raiſed within this County, nor that the Arms of any ſub<g ref="char:EOLhyphen"/>jects, other then Popiſh Recuſants be taken from them; nor wil wee conſent or ſuffer, that any frrraign Forces bee brought in upon Us; and if any ſuch attempts <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>albe offered or made, we wil endeavour to ſuppreſſe them, and to keepe the peace of the County entire, ſo far as the known Lawes of the Land ſhal inable us therein.</p>
+            <p>And we do likewiſe declare, That we ſhal be moſt ready and willing, to meet the reſt of the Gentry and Inhabitants of this County, to adviſe of ſuch matters as may indanger the violation of the peace thereof.</p>
+            <p>And we deſire that this our Declaration may be publiſh<g ref="char:EOLhyphen"/>ed in all the Pariſh Churches and Markets of this County, to the end that all men may take notice of this our Reſolu<g ref="char:EOLhyphen"/>tion and proceedings.</p>
+         </div>
+         <div type="Scotch_commissioners_resolution">
+            <head>The Reſolution of the Commiſſioners of <hi>Scotland,</hi> con<g ref="char:EOLhyphen"/>cerning ſeverall <hi>Articles</hi> touching the Kings Majesty.</head>
+            <p>TO the firſt Article, they declare, That his Majeſty hath nothing in it of his affection to, or liking and approba<g ref="char:EOLhyphen"/>tion of the Covenant, but only what He is content to yeeld in order to his own intereſt. Yea, an Act of Parliament for ſecurity of thoſe who have taken, or ſhal take the Covenant
+<pb n="3" facs="tcp:161550:4"/>doth or may ſuppoſe ſome fault or ſomewhat juſtly chal<g ref="char:EOLhyphen"/>lengable in the taking of the Covenant, which needeth an Act of Indemnity.</p>
+            <p>And although the conceſſion were certain and abſolute, it amounts to no more but to a leaving of the Covenant arbi<g ref="char:EOLhyphen"/>trary, which is contrary to the Acts of the General Aſſem<g ref="char:EOLhyphen"/>bly and Parliament in this Kingdom, and to one of the chief Propoſitions of Religion once agreed upon by both King<g ref="char:EOLhyphen"/>doms for a ſafe and wel grounded peace, <hi>viz.</hi>
+            </p>
+            <p>The Propoſition concerning his Majeſties ſwearing and ſigning of the League and Covenant, and enjoyning by Act of Parliament in both Kingdomes the taking thereof by all the Subjects in the three Kingdoms, with ſuch penalties as ſhalbe agreed by both Kingdoms: So that the firſt Article of his Majeſties offer is a moſt manifeſt altering of the ſtate of this cauſe; Is is alſo a ſtrengthning of the hearts &amp; hands both of the Sectaries, and of the malignant party, a partaking and conniving at the ſinne of all thoſe who in the three Kingdoms have refuſed, or ſhal refuſe to enter into the Solemn League and Covenant, an introducing of a de<g ref="char:EOLhyphen"/>teſtable indifferency or neutrality in this Cauſe which ſo much concerneth the glory of God, the good of the King<g ref="char:EOLhyphen"/>dom, and the honour of the King.</p>
+            <p>Neither are wee moved with that objection which is hinted concerning the conſtraining or enforcing mens con<g ref="char:EOLhyphen"/>ſciences.</p>
+            <p>They refuſe a neceſſary duty who refuſe to take the Co<g ref="char:EOLhyphen"/>venant; and the penalty or puniſhment of ſuch refuſal is no conſtraining of the conſcience, more then the penalty or puniſhment of a Subject, who refuſeth to take the Oath of allegiance, is a conſtraining of the conſcience to Loyalty, or more then the puniſhment of Idolaters, and Seducers men<g ref="char:EOLhyphen"/>tioned ſo often in Scripture, can be called a reſtraining of the co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſcience to the fear of God.</p>
+            <pb facs="tcp:161550:5"/>
+            <p> To the ſecond. For ought wee know the conditions cou<g ref="char:EOLhyphen"/>ched in the firſt Article, are alſo to be underſtood in this &amp; the following Article: However this ſecond Article as it is but the ſame in ſubſtance with ſome of his Majeſties con<g ref="char:EOLhyphen"/>ceſſions in former meſſages, ſo that which is propoſed in it is but a toleration of Presbyterial Government in England, and that but for three yeers.</p>
+            <p>To the 3. As wee doe approve of the ſuppreſſion of the particular Hereſies and Schiſms ennumerate in his Maj. of<g ref="char:EOLhyphen"/>fer; ſo we ſee not how it can be reconciled with his Maje<g ref="char:EOLhyphen"/>ſties Meſſage of <hi>Novem.</hi> 16. in which there was a conceſſi<g ref="char:EOLhyphen"/>on to all ſuch as differ from Presbyterial Government: And do further find the Article dangerous and defective in omitting Eraſtianiſm, and other dangerous errours, eſpeci<g ref="char:EOLhyphen"/>ally thoſe which may prove deſtructive to the Covenant, in miniſtring the occaſion for Papiſts and Prelates to plead for a toleration, although the Covenant bindes us to endea<g ref="char:EOLhyphen"/>vour the extirpation both of Popery and Prelacy.</p>
+            <p>And being now very ſenſible of the preſent danger His Maj. perſon and Monarchial Government is in by that pre<g ref="char:EOLhyphen"/>valent party of Sectaries, We ſhal ſo far as concerneth the duty of our places and callings, endeavour the preſervation of Monarchial Government in his Majeſty, and his Poſte<g ref="char:EOLhyphen"/>rity, according to the Covenant; not being ignorant what ca<g ref="char:EOLhyphen"/>lamities and confuſion uſe to attend to change either of the government it ſelf, or of the Royal Line.</p>
+            <p>And having now diſcovered the ſnares and dangers, we ſhal in the next place ſeriouſly propoſe ſome pious coun<g ref="char:EOLhyphen"/>ſels to the Members of this Church and Kingdom, <hi>viz.</hi>
+               <list>
+                  <item>1. We exhort every one to make more conſcience of en<g ref="char:EOLhyphen"/>deavouring a real Reformation. And</item>
+                  <item>2. To avoid enemies, &amp; beware of dangers on all hands. We c<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>not ſee but Reli<g ref="char:EOLhyphen"/>gion, Govenant, &amp; Presbyterial Governme<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> is now in great danger by the power and prevalency of Se<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>ries in Eng<g ref="char:EOLhyphen"/>land.</item>
+               </list>
+            </p>
+         </div>
+         <div type="imprimatur">
+            <p>Imp<hi rend="sup">r</hi>.</p>
+            <closer>
+               <signed>G. <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
